@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1094148065520",
+    "firebase_url": "https://take-me-back-34014.firebaseio.com",
+    "project_id": "take-me-back-34014",
+    "storage_bucket": "take-me-back-34014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094148065520:android:5a18dcc90f3ac029",
+        "android_client_info": {
+          "package_name": "com.example.aakas.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094148065520-lesjdcnacv3a25okuipiikimr9lgmrao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScN4yB6gOm3AaPFoOvRC6MvyeFqy5iIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
